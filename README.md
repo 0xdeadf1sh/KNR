@@ -7,6 +7,8 @@ Exercises covered:
 - [ex1_1.c](./chapter_1/ex1_1.c)
 - [ex1_3.c](./chapter_1/ex1_3.c)
 - [ex1_4.c](./chapter_1/ex1_4.c)
+- [ex1_5.c](./chapter_1/ex1_5.c)
+- [ex1_6.c](./chapter_1/ex1_6.c)
 
 ## License
 
