@@ -19,6 +19,10 @@ Exercises covered:
 - [ex1_13.c](./chapter_1/ex1_13.c)
 - [ex1_14.c](./chapter_1/ex1_14.c)
 - [ex1_15.c](./chapter_1/ex1_15.c)
+- [ex1_16.c](./chapter_1/ex1_16.c)
+- [ex1_17.c](./chapter_1/ex1_17.c)
+- [ex1_18.c](./chapter_1/ex1_18.c)
+- [ex1_19.c](./chapter_1/ex1_19.c)
 
 ## License
 
