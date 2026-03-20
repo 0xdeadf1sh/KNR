@@ -10,4 +10,4 @@ Exercises covered:
 
 ## License
 
-There is no license. All code is in public domain. See [LICENSE](./LICENSE] for details.
+There is no license. All code is in public domain. See the `LICENSE` file for details.
