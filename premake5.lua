@@ -132,6 +132,9 @@ function build_project(source_dir, source_file)
 	})
 end
 
+-------------- CHAPTER 1 --------------
+
 build_project("chapter_1", "ex1_1")
 build_project("chapter_1", "ex1_3")
 build_project("chapter_1", "ex1_4")
+build_project("chapter_1", "ex1_5")
