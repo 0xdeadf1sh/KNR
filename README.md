@@ -7,3 +7,7 @@ Exercises covered:
 - [ex1_1.c](./chapter_1/ex1_1.c)
 - [ex1_3.c](./chapter_1/ex1_3.c)
 - [ex1_4.c](./chapter_1/ex1_4.c)
+
+## License
+
+There is no license. All code is in public domain. See [LICENSE](./LICENSE] for details.
