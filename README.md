@@ -5,10 +5,17 @@ Exercises covered:
 ### Chapter 1
 
 - [ex1_1.c](./chapter_1/ex1_1.c)
+- ex1_2.c (Skipped since it causes a compiler error in GCC)
 - [ex1_3.c](./chapter_1/ex1_3.c)
 - [ex1_4.c](./chapter_1/ex1_4.c)
 - [ex1_5.c](./chapter_1/ex1_5.c)
 - [ex1_6.c](./chapter_1/ex1_6.c)
+- [ex1_7.c](./chapter_1/ex1_7.c)
+- [ex1_8.c](./chapter_1/ex1_8.c)
+- [ex1_9.c](./chapter_1/ex1_9.c)
+- [ex1_10.c](./chapter_1/ex1_10.c)
+- ex1_11.c (Skipped since it is a question)
+- [ex1_12.c](./chapter_1/ex1_12.c)
 
 ## License
 
