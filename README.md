@@ -1,4 +1,4 @@
-## Solutions to the exercises in the [K&R Book](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20%28Kernighan%20Ritchie%29.pdf)
+## Solutions to the exercises in the [K&R Book](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20%28Kernighan%20Ritchie%29.pdf) written in C23
 
 Exercises covered:
 
