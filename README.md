@@ -23,6 +23,8 @@ Exercises covered:
 - [ex1_17.c](./chapter_1/ex1_17.c)
 - [ex1_18.c](./chapter_1/ex1_18.c)
 - [ex1_19.c](./chapter_1/ex1_19.c)
+- [ex1_19.c](./chapter_1/ex1_20.c)
+- [ex1_19.c](./chapter_1/ex1_21.c)
 
 ## License
 
